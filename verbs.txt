@@ -1,0 +1,15 @@
+いく		=> go
+まがる		=> turn
+とめろ		=> stop
+みせる		=> show
+かく		=> write
+はく		=> put on
+はいる		=> come in
+すわる		=> sit down
+たつ		=> stand up
+いそぐ		=> hurry
+よむ		=> read
+いう		=> say
+よぶ		=> call
+たすける		=> help
+

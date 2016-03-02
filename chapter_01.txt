@@ -47,6 +47,11 @@
 やさい			=> vegetable
 さんぼをします		=> go for a walk
 よやく			=> reservation
+よく			=> often
+ときどき			=> sometimes
+ききます			=> ask
+いらっしゃいませ		=> welcome
+
 
 
 Relationships:
@@ -70,6 +75,12 @@ Questins:
 だれと			=> with who
 だれが			=> who
 だれに			=> to whome
+いそいで			=> quickly
+まがって			=> turn
+つぎ			=> next
+かど			=> corner
+とめて			=> stop
+おつり			=> change (money)
 
 
 TimeExpressions：
