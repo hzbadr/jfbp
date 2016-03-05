@@ -1,0 +1,17 @@
+G1 => two rows up in hiragana chart then add ない
+よむ	=>　よまない
+Exceptions
+Verbs ends with う changed to わ
+いう	=> いわない
+ある	=> ない
+
+G2　=> remove る　and add ない
+ねる	=> ねない
+
+G3
+する	=> しない
+くる	=> こない
+もってくる=> もってこない
+
+Negative　Past => add なかった
+わかる	=> わからなかった

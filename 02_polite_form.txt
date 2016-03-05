@@ -1,0 +1,25 @@
+G1 => one row up in hiragana chart then add ます
+ぬむ	=> ぬみます
+とる	=> とります
+はなす	=> はなします
+
+G2 => remove る　and put ます
+みる	=> みます
+
+G3
+する	=> します
+くる	=> きます
+べんきょうする	=> べんきょうします
+
+Negative => add ません
+わかる	=> わかりません
+
+Past => add ました
+わかる	=> わかりました
+
+Negative　Past　=> add ませんでした
+わかる	=> わかりませんでした
+
+Let's => add ましょう
+やすむ	=> やすみましょう
+
